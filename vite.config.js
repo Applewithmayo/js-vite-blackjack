@@ -2,5 +2,5 @@ import {defineConfig} from 'vite';
 
 export default defineConfig({
 
-    base: '/js-vite-backjack',
+    base: '/js-vite-backjack/',
 });
